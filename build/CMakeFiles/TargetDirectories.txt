@@ -1,0 +1,10 @@
+/home/qyk/Chatprogram/build/CMakeFiles/rebuild_cache.dir
+/home/qyk/Chatprogram/build/CMakeFiles/edit_cache.dir
+/home/qyk/Chatprogram/build/src/CMakeFiles/rebuild_cache.dir
+/home/qyk/Chatprogram/build/src/CMakeFiles/edit_cache.dir
+/home/qyk/Chatprogram/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/qyk/Chatprogram/build/src/server/CMakeFiles/ChatServer.dir
+/home/qyk/Chatprogram/build/src/server/CMakeFiles/edit_cache.dir
+/home/qyk/Chatprogram/build/src/client/CMakeFiles/rebuild_cache.dir
+/home/qyk/Chatprogram/build/src/client/CMakeFiles/ChatClient.dir
+/home/qyk/Chatprogram/build/src/client/CMakeFiles/edit_cache.dir
